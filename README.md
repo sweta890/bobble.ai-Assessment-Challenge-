@@ -1,4 +1,4 @@
-# bobble.ai-Assessment-Challenge-
+# bobble.ai-Assessment-Challenge
 Assessment Challenge 2020-2021( C++ Assignment)
 
 ## About the assignment
