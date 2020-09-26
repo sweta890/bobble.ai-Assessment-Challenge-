@@ -12,8 +12,11 @@ dictionary of words is given, with all the words indexed from 0 to `N` (where `N
 
 ## To run the code use c++11.
 Step 1: Clone the repository.
+
 Step 2: Make sure g++ is installed in system.
+
 Step 3: With the help of terminal go to directory folder which you have cloned.
+
 step 4: Type this code to compile Find the Word program.
 ```shell
 g++ Find_the_Word
